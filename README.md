@@ -7,13 +7,9 @@ Skin diseases, especially melanoma, are among the most common health issues worl
 🚀 Features
 
 ✔️ Skin lesion segmentation using U-Net
-
 ✔️ Classification of lesions with Xception CNN model
-
 ✔️ Data preprocessing with augmentation & resizing
-
 ✔️ Trained on ISIC 2019 dataset (25,000+ images)
-
 ✔️ Implemented with TensorFlow, Keras, OpenCV, and NumPy
 
 📂 Dataset
