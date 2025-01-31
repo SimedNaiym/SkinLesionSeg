@@ -1,7 +1,9 @@
 🏥 Intelligent Healthcare System for Skin Cancer Diagnosis
+
 📌 Project Overview
 
 Skin diseases, especially melanoma, are among the most common health issues worldwide. Early detection is crucial for improving patient survival rates. This project leverages deep learning techniques, particularly CNN architectures, to develop an automated, accurate, and fast diagnostic tool for detecting and classifying skin lesions.
+
 🚀 Features
 
 ✔️ Skin lesion segmentation using U-Net
@@ -9,6 +11,7 @@ Skin diseases, especially melanoma, are among the most common health issues worl
 ✔️ Data preprocessing with augmentation & resizing
 ✔️ Trained on ISIC 2019 dataset (25,000+ images)
 ✔️ Implemented with TensorFlow, Keras, OpenCV, and NumPy
+
 📂 Dataset
 
 We used the ISIC 2019 dataset, which includes images from:
